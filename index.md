@@ -4,5 +4,5 @@
 
 
 ## OKR
-[ OKR study] (./management/okr.md)
+[OKR study](./management/okr.md)
 
