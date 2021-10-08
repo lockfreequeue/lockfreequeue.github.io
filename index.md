@@ -6,3 +6,6 @@
 ## OKR
 [OKR study](./management/okr.md)
 
+
+## English
+[English root study](./managemtn/english.md)
