@@ -8,4 +8,4 @@
 
 
 ## English
-[English root study](./managemtn/english.md)
+[English root study](./management/english.md)
